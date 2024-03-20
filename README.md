@@ -19,7 +19,6 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/muzakkirhussain011)
-
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/muzakkirhussain011)
 
 ### ML/DL
