@@ -48,19 +48,19 @@
 <details>
 <p align="center">
   <a href="https://github.com/muzakkirhussain011">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nripeshn&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzakkirhussain011&theme=transparent" />
   </a>
   <a href="https://github.com/muzakkirhussain011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nripeshn&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzakkirhussain011&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/muzakkirhussain011">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nripeshn&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzakkirhussain011&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/muzakkirhussain011">
-    <img src="https://komarev.com/ghpvc/?username=nripeshn&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=muzakkirhussain011&color=blue&style=flat)" />
   </a>
 </p>
