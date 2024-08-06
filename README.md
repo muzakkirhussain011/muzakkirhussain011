@@ -20,24 +20,33 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/muzakkirhussain011)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/muzakkirhussain011)
 
-### ML/DL
+### ML/DL Libraries and Frameworks
 
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/muzakkirhussain011)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/muzakkirhussain011)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/muzakkirhussain011)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/muzakkirhussain011)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/muzakkirhussain011)
+[![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/muzakkirhussain011)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/muzakkirhussain011)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib)](https://github.com/muzakkirhussain011)
 
-### Technologies & Frameworks
+### Tools and Technologies
 
+[![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)](https://github.com/muzakkirhussain011)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/muzakkirhussain011)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/muzakkirhussain011)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/muzakkirhussain011)
+[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/muzakkirhussain011)
 
-### OS
+### Cloud Platforms
+
+[![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://github.com/muzakkirhussain011)
+
+### Operating Systems
 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/muzakkirhussain011)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/muzakkirhussain011)
