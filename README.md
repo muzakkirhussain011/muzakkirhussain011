@@ -70,11 +70,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzakkirhussain011&theme=transparent" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakkirhussain011&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzakkirhussain011&hide_border=true&theme=tokyo-night" width="66%">
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzakkirhussain011&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muzakkirhussain011&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/>
-``
+
 </details>
 
 
