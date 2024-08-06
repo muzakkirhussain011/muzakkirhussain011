@@ -6,16 +6,19 @@
         I'm Muzakkir.<br>
         I'm currently sharpening my skills in Machine Learning (ML) and Deep Learning (DL), and I'm always excited to overcome new challenges.<br>
         I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
+        Feel free to connect with me on LinkedIn or send me an email.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/syed-muzakkir-hussain/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:muzakkirhussain011@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
 
-### Languages
+<h2 align="center">🔧 Skills & Tools</h2>
+
+### Programming Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/muzakkirhussain011)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/muzakkirhussain011)
@@ -30,8 +33,9 @@
 [![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/muzakkirhussain011)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/muzakkirhussain011)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib)](https://github.com/muzakkirhussain011)
+[![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/muzakkirhussain011)
 
-### Tools and Technologies
+### Development Tools and Technologies
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)](https://github.com/muzakkirhussain011)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/muzakkirhussain011)
@@ -52,6 +56,8 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/muzakkirhussain011)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)](https://github.com/muzakkirhussain011)
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <details>
 <p align="center">
   <a href="https://github.com/muzakkirhussain011">
@@ -65,6 +71,17 @@
   </a>
 </p>
 </details>
+
+<h2 align="center">📫 How to Reach Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-muzakkir-hussain/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:muzakkirhussain011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/muzakkirhussain011">
