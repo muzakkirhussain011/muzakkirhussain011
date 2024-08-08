@@ -75,15 +75,3 @@
 </p>
 </details>
 
-
-<h2 align="center">📫 How to Reach Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-muzakkir-hussain/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:muzakkirhussain011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
