@@ -49,7 +49,7 @@
 
 ### Cloud Platforms
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/muzakkirhussain011)
+
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/muzakkirhussain011)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/muzakkirhussain011)
 
@@ -75,11 +75,6 @@
 </p>
 </details>
 
-<h2 align="center">🌱 Currently Learning</h2>
-
-- Advanced Deep Learning techniques
-- Reinforcement Learning
-- Cloud-based ML deployment
 
 <h2 align="center">📫 How to Reach Me</h2>
 
@@ -92,8 +87,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/muzakkirhussain011">
-    <img src="https://komarev.com/ghpvc/?username=muzakkirhussain011&color=brightgreen&style=flat-square" />
-  </a>
-</p>
