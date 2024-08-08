@@ -7,7 +7,7 @@
         I'm Muzakkir.<br>
         I'm currently sharpening my skills in Machine Learning (ML) and Deep Learning (DL), and I'm always excited to overcome new challenges.<br>
         I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
-        <br>
+        
     </i><br>
     <a href="https://www.linkedin.com/in/syed-muzakkir-hussain/">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
