@@ -7,7 +7,7 @@ readme_content = """
         I'm Muzakkir.<br>
         I'm currently sharpening my skills in Machine Learning (ML) and Deep Learning (DL), and I'm always excited to overcome new challenges.<br>
         I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
-        
+        Feel free to connect with me on LinkedIn or send me an email.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/syed-muzakkir-hussain/">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -75,7 +75,11 @@ readme_content = """
 </p>
 </details>
 
+<h2 align="center">🌱 Currently Learning</h2>
 
+- Advanced Deep Learning techniques
+- Reinforcement Learning
+- Cloud-based ML deployment
 
 <h2 align="center">📫 How to Reach Me</h2>
 
