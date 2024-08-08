@@ -1,4 +1,4 @@
-readme_content = """
+
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
@@ -97,4 +97,3 @@ readme_content = """
     <img src="https://komarev.com/ghpvc/?username=muzakkirhussain011&color=brightgreen&style=flat-square" />
   </a>
 </p>
-"""
