@@ -7,8 +7,7 @@
         I'm Muzakkir.<br>
         I'm currently sharpening my skills in Machine Learning (ML) and Deep Learning (DL), and I'm always excited to overcome new challenges.<br>
         I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
-<br>
-        
+        Feel free to connect with me on LinkedIn or send me an email.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/syed-muzakkir-hussain/">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -49,7 +48,6 @@
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/muzakkirhussain011)
 
 ### Cloud Platforms
-
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/muzakkirhussain011)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/muzakkirhussain011)
