@@ -58,19 +58,5 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/muzakkirhussain011)
 [![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=white)](https://github.com/muzakkirhussain011)
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<details>
-<p align="center">
-  <a href="https://github.com/muzakkirhussain011">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzakkirhussain011&theme=github_dark" />
-  </a>
-  <a href="https://github.com/muzakkirhussain011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzakkirhussain011&hide_border=true&theme=github-dark-blue" />
-  </a>
-  <a href="https://github.com/muzakkirhussain011">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzakkirhussain011&theme=github_dark" />
-  </a>
-</p>
-</details>
 
