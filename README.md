@@ -24,7 +24,6 @@ class Engineer:
     def __init__(self):
         self.name      = "Syed Muzakkir Hussain"
         self.role      = "Senior AI Software Engineer"
-        self.location  = "Jeddah, Saudi Arabia 🇸🇦"
         self.focus     = ["Agentic AI", "RAG", "LLM Systems",
                           "Conversational Analytics"]
 
