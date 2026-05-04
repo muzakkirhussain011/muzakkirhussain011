@@ -3,7 +3,7 @@
 Senior AI Software Engineer
 
 <sub>
-AI engineering · LLM applications · RAG · Backend systems · Cloud deployment
+AI Engineering · LLM Applications · RAG · Backend Systems · Cloud Deployment
 </sub><br/><a href="https://www.linkedin.com/in/syed-muzakkir-hussain">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -20,47 +20,45 @@ About
 
 I work on AI applications, retrieval systems, and backend services for production environments.
 
-My current focus includes LLM applications, agentic workflows, RAG pipelines, API development, data processing, and cloud-native deployment.
+My main focus is building practical AI software around LLMs, APIs, data pipelines, and cloud-native infrastructure.
 
 
 ---
 
-Focus Areas
+Focus
 
 <table>
   <tr>
-    <td width="33%">
-      <b>AI Applications</b>
+    <td width="33%" align="center">
+      <b>LLM Applications</b>
       <br/>
-      <sub>LLMs, agents, tool use, and conversational systems</sub>
+      <sub>Agents, tool use, chat systems, and AI workflows</sub>
     </td>
-    <td width="33%">
+    <td width="33%" align="center">
       <b>Retrieval Systems</b>
       <br/>
       <sub>RAG, embeddings, vector search, reranking, and evaluation</sub>
     </td>
-    <td width="33%">
-      <b>Backend & Infrastructure</b>
+    <td width="33%" align="center">
+      <b>Backend Engineering</b>
       <br/>
-      <sub>FastAPI, data pipelines, containers, deployment, and monitoring</sub>
+      <sub>FastAPI, databases, streaming, containers, and deployment</sub>
     </td>
   </tr>
 </table>
 ---
 
-Tech Stack
+Stack
 
 <table>
   <tr>
-    <td width="24%"><b>AI & LLMs</b></td>
+    <td width="22%"><b>AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ReAct-7C3AED?style=flat-square"/>
       <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square"/>
       <img src="https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DeepSeek-1C5BFE?style=flat-square"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
     </td>
   </tr>
@@ -71,7 +69,6 @@ Tech Stack
       <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white"/>
       <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SBERT-EE4C2C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/BGE_Reranker-FF6F00?style=flat-square"/>
       <img src="https://img.shields.io/badge/RAGAS-22C55E?style=flat-square"/>
       <img src="https://img.shields.io/badge/DeepEval-7C3AED?style=flat-square"/>
     </td>
@@ -82,9 +79,8 @@ Tech Stack
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -95,21 +91,17 @@ Tech Stack
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Infrastructure</b></td>
+    <td><b>Infra</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -117,34 +109,17 @@ Tech Stack
 
 Certifications
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/afaa3503-48df-427c-a1b3-fb705e79d551/public_url">
-        <img src="https://img.shields.io/badge/NVIDIA_Certified_Professional-Agentic_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Certified Professional Agentic AI"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/32323712A3CD4A3A?sharingId=B949843D9830F7DE">
-        <img src="https://img.shields.io/badge/Azure_Data_Scientist_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Scientist Associate"/>
-      </a>
-      <a href="https://www.credential.net/455d17f4-7fa8-4c23-83e8-d7c171006727">
-        <img src="https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Developer"/>
-      </a>
-      <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/6A4BF91B79876419?sharingId=B949843D9830F7DE">
-        <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals"/>
-      </a>
-      <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/4B3F3E94B32B71ED?sharingId=B949843D9830F7DE">
-        <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Fundamentals"/>
-      </a>
-      <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/49D3335585CB8057?sharingId=B949843D9830F7DE">
-        <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://www.credly.com/badges/afaa3503-48df-427c-a1b3-fb705e79d551/public_url">
+    <img src="https://img.shields.io/badge/NVIDIA-Agentic_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Agentic AI"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/32323712A3CD4A3A?sharingId=B949843D9830F7DE">
+    <img src="https://img.shields.io/badge/Azure-Data_Scientist_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Scientist Associate"/>
+  </a>
+  <a href="https://www.credential.net/455d17f4-7fa8-4c23-83e8-d7c171006727">
+    <img src="https://img.shields.io/badge/TensorFlow-Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Developer"/>
+  </a>
+</p>
 ---
 
 <div align="center"><a href="https://www.linkedin.com/in/syed-muzakkir-hussain">
