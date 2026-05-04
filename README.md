@@ -5,7 +5,7 @@
 
 # Syed Muzakkir Hussain
 
-**Senior AI Software Engineer** &nbsp;·&nbsp; Jeddah, Saudi Arabia
+**Senior AI Software Engineer** &nbsp;·&nbsp; 
 
 <sub>Agentic AI &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LLM Systems &nbsp;·&nbsp; Conversational Analytics</sub>
 
