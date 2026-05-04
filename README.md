@@ -1,56 +1,63 @@
-<!-- ===== HERO BANNER ===== -->
 <div align="center">
 
-<a href="https://github.com/muzakkirhussain011">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Syed+Muzakkir+Hussain;Senior+AI+Software+Engineer;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+LLM+Systems" alt="typing banner" />
+<br/>
+
+# Syed Muzakkir Hussain
+
+### Senior AI Software Engineer
+
+<sub>Agentic AI · RAG · LLM Systems · Conversational Analytics</sub>
+
+<br/>
+
+</div>
+
+---
+
+<br/>
+
+```python
+class Engineer:
+    name      = "Syed Muzakkir Hussain"
+    role      = "Senior AI Software Engineer"
+    location  = "Jeddah, Saudi Arabia"
+    focus     = ["Agentic AI", "RAG", "LLM Systems",
+                 "Conversational Analytics"]
+    building  = "Production AI for enterprise telecom"
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### Live Demo
+
+<br/>
+
+<a href="https://huggingface.co/spaces/muzakkirhussain011/cx_ai_agent_v1">
+  <img src="https://img.shields.io/badge/CX_AI_Agent-Open_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&reversal=true" width="100%"/>
+<sub>Autonomous multi-agent system. Qwen, LangChain, MCP tool-calling, ReAct reasoning, Milvus + SBERT memory.</sub>
 
 </div>
 
-<!-- ===== INTRO ===== -->
-
-### whoami
-
-```python
-class Engineer:
-    def __init__(self):
-        self.name      = "Syed Muzakkir Hussain"
-        self.role      = "Senior AI Software Engineer"
-        self.focus     = ["Agentic AI", "RAG", "LLM Systems",
-                          "Conversational Analytics"]
-
-    def current_obsession(self):
-        return "multi-agent reasoning + grounded retrieval"
-```
+<br/>
 
 ---
 
-<!-- ===== LIVE DEMO STRIP ===== -->
+<br/>
 
-<div align="center">
+## Arsenal
 
-### 🚀 Live Demo
+**Language Models & Agents**
 
-<a href="https://huggingface.co/spaces/muzakkirhussain011/cx_ai_agent_v1">
-  <img src="https://img.shields.io/badge/CX_AI_Agent-Try_it_live-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-
-<sub>Autonomous multi-agent system for B2B prospect discovery and personalised email generation.<br/>
-Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversation + Milvus RAG with SBERT).</sub>
-
-</div>
-
----
-
-<!-- ===== ARSENAL ===== -->
-
-## 🛠 Arsenal
-
-#### 🤖 LLM & Agents
 
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -58,12 +65,15 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
 
 
 
 
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+
+
 
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square)
 
@@ -75,7 +85,7 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 
-![Llama](https://img.shields.io/badge/LLaMA-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white)
 
 
 
@@ -85,12 +95,9 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 
-![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-
-
-
-![MCP](https://img.shields.io/badge/MCP-000?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 
 
@@ -99,7 +106,10 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 
-#### 🧠 RAG & Vector Search
+<br/>
+
+**Retrieval & Vector Search**
+
 
 
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white)
@@ -108,6 +118,9 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
 
 ![SBERT](https://img.shields.io/badge/SBERT-EE4C2C?style=flat-square)
 
@@ -128,13 +141,13 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 
-#### 🔬 ML & Deep Learning
+<br/>
+
+**Machine Learning**
+
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-
-
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
@@ -153,11 +166,17 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+
+
+
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
 
 
-#### ⚙️ Backend & Data
+<br/>
+
+**Backend & Data**
+
 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -172,10 +191,7 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-
-
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 
 
@@ -192,7 +208,12 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-#### ☁️ Cloud & DevOps
+
+
+<br/>
+
+**Cloud & Infrastructure**
+
 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -212,9 +233,6 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-
-
-
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 
@@ -232,10 +250,15 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-#### 🤝 Platforms
 
 
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
+<br/>
+
+**Platforms**
+
+
+
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 
 
@@ -249,33 +272,35 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
 
 
 
+<br/>
+
 ---
 
-<!-- ===== CERTIFICATIONS ===== -->
+<br/>
 
-## 🎓 Certifications
+## Certifications
 
-<p align="center">
+<div align="center">
+
+<br/>
 
 <a href="https://www.credly.com/badges/afaa3503-48df-427c-a1b3-fb705e79d551/public_url">
-  <img src="https://img.shields.io/badge/NVIDIA_Certified_Professional-Agentic_AI_(NCP--AAI)-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NCP-AAI"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Certified_Professional-Agentic_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NCP-AAI"/>
 </a>
 
-</p>
-
-<p align="center">
+<br/>
+<br/>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/32323712A3CD4A3A?sharingId=B949843D9830F7DE">
   <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Scientist_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Scientist Associate"/>
 </a>
 &nbsp;
 <a href="https://www.credential.net/455d17f4-7fa8-4c23-83e8-d7c171006727">
-  <img src="https://img.shields.io/badge/Google-TensorFlow_Developer_Certificate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Developer"/>
+  <img src="https://img.shields.io/badge/Google-TensorFlow_Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Developer"/>
 </a>
 
-</p>
-
-<p align="center">
+<br/>
+<br/>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/6A4BF91B79876419?sharingId=B949843D9830F7DE">
   <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals"/>
@@ -289,22 +314,31 @@ Qwen LLM, LangChain, MCP tool-calling, ReAct reasoning, dual memory (conversatio
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
 </a>
 
-</p>
+<br/>
+
+</div>
+
+<br/>
 
 ---
 
-<!-- ===== CONNECT ===== -->
+<br/>
 
-## 📡 Connect
+## Contact
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syed-muzakkir-hussain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:muzakkirhussain011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://huggingface.co/muzakkirhussain011"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/syed-muzakkir-hussain">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:muzakkirhussain011@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://huggingface.co/muzakkirhussain011">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&reversal=true" width="100%"/>
+<br/>
+<br/>
 
 </div>
