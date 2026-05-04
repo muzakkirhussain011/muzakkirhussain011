@@ -1,18 +1,10 @@
-<div align="center">
+<div align="center"><br/>Syed Muzakkir Hussain
 
-<br/>
-
-# Syed Muzakkir Hussain
-
-### Senior AI Software Engineer
+Senior AI Software Engineer
 
 <sub>
 Agentic AI · RAG · LLM Systems · Conversational Analytics · Enterprise AI Platforms
-</sub>
-
-<br/>
-
-<a href="https://huggingface.co/spaces/muzakkirhussain011/cx_ai_agent_v1">
+</sub><br/><a href="https://huggingface.co/spaces/muzakkirhussain011/cx_ai_agent_v1">
   <img src="https://img.shields.io/badge/Live_Demo-CX_AI_Agent-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="CX AI Agent Demo"/>
 </a>
 <a href="https://www.linkedin.com/in/syed-muzakkir-hussain">
@@ -20,18 +12,12 @@ Agentic AI · RAG · LLM Systems · Conversational Analytics · Enterprise AI Pl
 </a>
 <a href="mailto:muzakkirhussain011@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/>
-<br/>
-
-</div>
-
+</a><br/>
+<br/></div>
 ---
 
-## Profile
+Profile
 
-```python
 class Engineer:
     name = "Syed Muzakkir Hussain"
     role = "Senior AI Software Engineer"
@@ -193,4 +179,3 @@ Connect
 <a href="https://huggingface.co/muzakkirhussain011">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </a></div>
-```
