@@ -1,32 +1,47 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=105&color=0:0F172A,50:2563EB,100:7C3AED&section=header" width="100%" alt="header" />Hi 👋, I'm Muzakkir
+<div align="center">
 
-Senior AI Software Engineer
+<h1>Syed Muzakkir Hussain</h1>
 
-<b>AI · Machine Learning · LLMs · Backend Systems · Data Engineering · Cloud</b>
+<h3>Senior AI Software Engineer</h3>
 
-<br/>I build practical, reliable software using AI, data, and modern engineering systems.
+I take AI from pilot to production: agentic systems, LLM and ML applications, and the backend and
+data platforms that keep them reliable, observable and cost-efficient at scale.
 
-<br/><a href="https://www.linkedin.com/in/syed-muzakkir-hussain">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:muzakkirhussain011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://huggingface.co/muzakkirhussain011">
-  <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</a><br/>
-<br/><img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,postgres,redis,docker,kubernetes,linux,nginx,aws,azure" alt="Core tech stack: Python, FastAPI, PyTorch, TensorFlow, PostgreSQL, Redis, Docker, Kubernetes, Linux, Nginx, AWS, Azure" /><br/>
-<br/><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" alt="LlamaIndex" />
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP" />
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" alt="Milvus" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /><br/>
-<br/><a href="https://www.credly.com/badges/afaa3503-48df-427c-a1b3-fb705e79d551/public_url">
-  <img src="https://img.shields.io/badge/NVIDIA_Certified_Professional-Agentic_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Certified Professional: Agentic AI" />
-</a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/32323712A3CD4A3A?sharingId=B949843D9830F7DE">
-  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Scientist_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Data Scientist Associate" />
-</a>
-<a href="https://www.credential.net/455d17f4-7fa8-4c23-83e8-d7c171006727">
-  <img src="https://img.shields.io/badge/Google-TensorFlow_Developer_Certificate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Developer Certificate" />
-</a><br/><img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:7C3AED,50:2563EB,100:0F172A&section=footer" width="100%" alt="footer" /></div>
+<b>Agentic AI · LLMs and RAG · Evals and Observability · Machine Learning · Backend Systems · Data Engineering · Cloud and MLOps</b>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/syed-muzakkir-hussain"><img src="assets/linkedin.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/muzakkirhussain011"><img src="assets/huggingface.svg" width="40" alt="Hugging Face" /></a>&nbsp;&nbsp;
+<a href="mailto:muzakkirhussain011@gmail.com"><img src="assets/gmail.svg" width="40" alt="Email" /></a>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,postgres,redis,kafka,docker,kubernetes,linux,aws,azure" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, PostgreSQL, Redis, Kafka, Docker, Kubernetes, Linux, AWS, Azure" />
+
+<br/>
+
+<h3>Certifications</h3>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.credly.com/badges/afaa3503-48df-427c-a1b3-fb705e79d551/public_url"><img src="assets/nvidia-agentic-ai.png" height="110" alt="NVIDIA Certified Professional: Agentic AI" /></a>
+      <br/><sub><b>NVIDIA</b><br/>Agentic AI Professional</sub>
+    </td>
+    <td align="center" valign="top" width="200">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/SyedMuzakkirHussain-7661/5A06B1B6D368C7D2?sharingId=B949843D9830F7DE"><img src="assets/microsoft-certified-associate.svg" height="110" alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate" /></a>
+      <br/><sub><b>Microsoft</b><br/>Azure AI Apps and Agents</sub>
+    </td>
+    <td align="center" valign="top" width="200">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-in/SyedMuzakkirHussain-7661/32323712A3CD4A3A?sharingId=B949843D9830F7DE"><img src="assets/microsoft-certified-associate.svg" height="110" alt="Microsoft Certified: Azure Data Scientist Associate" /></a>
+      <br/><sub><b>Microsoft</b><br/>Azure Data Scientist</sub>
+    </td>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.credential.net/455d17f4-7fa8-4c23-83e8-d7c171006727"><img src="assets/tensorflow.svg" height="110" alt="Google TensorFlow Developer Certificate" /></a>
+      <br/><sub><b>Google</b><br/>TensorFlow Developer</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
